@@ -12,3 +12,6 @@
 3. 使用PyInstaller打包：`python setup.py`
 
 ![界面截图](screenshot.png)
+# 禁止商用
+
+# 我是小白 全程用Trae做的 程序能正常运行  有需要改进的希望各位指点
